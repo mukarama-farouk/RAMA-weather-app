@@ -1,0 +1,61 @@
+header{
+    text-align: center;
+    border-bottom: 5px solid rgb(30, 90, 114);
+    color: rgb(9, 67, 90);
+}
+.container{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+body{
+    background: url(/wolfgang-hasselmann-bR_-gllg7Bs-unsplash.jpg ) no-repeat center fixed ;
+    
+}
+#form-container{
+    background-color:rgb(231, 229, 225);
+    padding: 20px;
+    border-radius: 10px;
+    width: 50%;
+    margin: 10px auto;
+}
+input{
+    width: 90%;
+    padding: 10px ;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+}
+
+button{
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.card{
+   border: 1px solid #ccc;
+   box-shadow: 0 4px 8px 0 rgba(30,90,114);
+   margin: 10px;
+   padding: 10px;
+   background:rgb(30, 90, 114);
+   border-radius: 10px;
+   color: wheat;
+}
+
+.history-title{
+    text-align: center;
+    font-size: 20px;
+}
+.history-title span{
+    color:rgb(30, 90,114);background-color:white;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-style: italic;
+}
+
